@@ -12,3 +12,6 @@ Simple run
     python clickbait.py Some title of an article goes here -t  # To retrain the model
 
 Press `q` to exit. It will keep asking for new article titles otherwise.
+
+# Data
+The data is from [this repository](https://github.com/bhargaviparanjape/clickbait).
